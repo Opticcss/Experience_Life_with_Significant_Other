@@ -1,5 +1,19 @@
 # **當健康的家伙**
 
+
+
+> - **再平凡不过的各种日常**
+>
+> - **无处安放的好奇心和求知欲**
+>
+> - **不善于表达感情的父母**
+>
+> - **一个麻烦的发小**
+
+
+
+
+
 ### *Water* 篇
 
 - 每天喝掉 $\geq\it1.8\rm\ kg$ 的水 (据说肌肉若缺水 $\it3\%$ 就会失去 $\it10\%$ 的力量和 $\it8\%$ 的速度)；
@@ -25,7 +39,35 @@
 - 多吃低脂蛋白和蔬菜谷物 (等复合碳水化合物，这是相比于高糖高脂食物和简单碳水化合物而言的)；
 - 一天内吃五至六餐低热量高营养的食物，以供应给自己稳定的精力；
 
----
+
+
+
+
+
+
+
+
+**能眺望远方，或者外面的风景好的空间**
+
+[1]
+
+**多曲线，有美丽的弧线的空间**
+
+[2]
+
+
+
+> [1] Berman M G, Jonides J, Kaplan S. The cognitive benefits of interacting with nature[J]. Psychological science, 2008, 19(12): 1207-1212.
+>
+> [2] Dazkir S S, Read M A. Furniture forms and their influence on our emotional responses toward interior environments[J]. Environment and Behavior, 2012, 44(5): 722-732.
+
+
+
+
+
+
+
+
 
 >**[0.0]**：面号：**[OPTSx8a2c]**
 
